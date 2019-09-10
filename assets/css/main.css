@@ -1805,7 +1805,15 @@ ul.actions li:first-child {
 
 .box.style1 img {
     max-width: 100%;
-    width: 10em;
+    width: 14em;
+}
+
+.box.style1 #css {
+    width: 9em;
+}
+
+.box.style1 #js {
+    width: 12em;
 }
 
 .box.style1 h3 {
